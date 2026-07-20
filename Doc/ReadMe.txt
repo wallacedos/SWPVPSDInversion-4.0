@@ -16,7 +16,7 @@ rayleighFieldFundamentalDCInv.m、rayleighFieldMultimodalDCInv.m、XiongAnDCInv.
 Doc文件夹下同时包含着演示教程视频。
 
 
-使用该程序发表的首篇文章，需要将本人列为排序第二的共同一作，不具备强制性！
+使用该程序发表的首篇文章，可以考虑和本人合作，不具备强制性！
 使用该程序发表文章，请引用以下三篇参考文献！
 
 [1] Yan, Y., Wang, Z., Li, J., Huai, N., Liang, Y., Song, S., Zhang, J., & Zhang, L. 2020. Elastic SH- and Love-wave Full-Waveform Inversion 
